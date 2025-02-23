@@ -1,5 +1,4 @@
 
-# Instagram report bot
 <p><h1>Auto report Instagram accounts ( SPAM BOT ) ⚡ </h1>
 
 [![Version](https://img.shields.io/badge/version-6.0-blue)]()  
