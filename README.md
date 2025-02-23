@@ -1,6 +1,6 @@
 
 # Instagram report bot
-**The Ultimate Automated Instagram Reporting Solution**  
+<p><h1>Auto report Instagram accounts ( SPAM BOT ) ⚡ </h1>
 
 [![Version](https://img.shields.io/badge/version-6.0-blue)]()  
 [![License](https://img.shields.io/badge/root-abrzi-green)]()  
