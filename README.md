@@ -64,3 +64,16 @@ to get the program:
   [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/abrzi505)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+tags : instagram bot
+instagram automation tool
+instagram ban bot mass
+instagram reporter github
+instagram automation report tool
+instagram automatic report bot 
+reporting bot instagram 
+instagram mass reporting tool 
+instagram mass reporting bot 
+instagram mass report service
+instagram reporter githubb
