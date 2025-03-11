@@ -55,7 +55,7 @@ Watch a the bot in action on YouTube:
 to get the program:
 
 - **Join our Telegram Channel**:  
-  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://tinyurl.com/39573uep)
+  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/+3eJxreqLpRZhOGI0)
 
 - **Contact Support**:  
   [![Contact Support](https://img.shields.io/badge/Contact-Support-green)](https://t.me/abrzi505)
